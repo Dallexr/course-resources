@@ -82,3 +82,7 @@ Offers a broad overview of the computer science discipline. Provides students wi
 ### Big O Notation
 
 - [The Little Book of Big O](https://gumroad.com/l/big-o)
+
+### Review Material - Chapter 3-8
+
+- [Daniel's Review materia](https://drive.google.com/drive/folders/1PxOESNpddgTacyNYuW1Z-8Fhz_JLU2gI?usp=sharing)
